@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: samaced-backend
+    env: node
+    branch: main
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true
+    plan: free
+
