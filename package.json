@@ -13,5 +13,17 @@
     "jsonwebtoken": "^9.0.0",
     "sqlite3": "^5.1.6",
     "date-fns": "^2.30.0"
-  }
+  },
+  "description": "Backend for student payments + typeahead.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albert-Chris-Essel/samaced-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albert-Chris-Essel/samaced-backend/issues"
+  },
+  "homepage": "https://github.com/Albert-Chris-Essel/samaced-backend#readme"
 }
